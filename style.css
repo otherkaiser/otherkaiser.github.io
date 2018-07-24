@@ -1,3 +1,113 @@
-p {
-color: red;
+body {
+	color: #000000;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	text-decoration: none;
+	text-align:left;
+	background:#fff;
+}
+
+a:link  {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	color: #333333;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:visited  {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	color: #333333;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:hover  {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	color: #ffffff;
+	background-color: #333333;
+	text-decoration: none;
+}
+
+a:active  {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	color: ##5BEF5B;
+	background-color: #333333;
+	text-decoration: none;
+}
+
+a.menu:link  {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1.1em;
+	font-weight: normal;
+	color: #333333;
+	background-color: transparent;
+	text-decoration: none;
+ }
+
+a.menu:visited  {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1.1em;
+	font-weight: normal;
+	color: #333333;
+	background-color: transparent;
+	text-decoration: none;
+ }
+
+a.menu:hover  {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #333333;
+	text-decoration: none;
+}
+
+a.menu:active  {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1.1em;
+	font-weight: normal;
+	color: #5BEF5B;
+	background-color: #333333;
+	text-decoration: none;
+}
+
+p  {
+font-family: "Courier New", Courier, monospace;
+font-size: 1em;
+font-color: #333333;
+text-align: left; }
+
+p.cv  {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1em;
+font-color: #333333;
+text-align: left;
+}
+
+h1 {
+	font-size: 2em;
+	letter-spacing: .2em;
+	margin: 0.5em 1.5em 1em 0;
+	}
+
+img {
+	border: 0;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	max-width:100%;
+}
+
+a.img {
+	background-color:#fff;
 }
